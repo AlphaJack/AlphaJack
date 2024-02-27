@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![AlphaJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaJack&theme=algolia&show_icons=true)](https://github.com/AlphaJack)
+<!-- [![AlphaJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaJack&theme=algolia&show_icons=true)](https://github.com/AlphaJack) -->
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AlphaJack&hide=COBOL,rust,makefile,dockerfile,r,perl,go&theme=algolia&show_icons=true)](https://github.com/AlphaJack)
 
