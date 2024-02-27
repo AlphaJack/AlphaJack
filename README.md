@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
-**AlphaJack/AlphaJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![AlphaJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaJack&theme=algolia&show_icons=true)](https://github.com/AlphaJack)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AlphaJack&hide=COBOL,rust,makefile,dockerfile,r,perl,go&theme=algolia&show_icons=true)](https://github.com/AlphaJack)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
